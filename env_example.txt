@@ -1,0 +1,8 @@
+# Weather API Configuration
+WEATHER_API_KEY=your_openweathermap_api_key_here
+
+# YouTube API Configuration (Optional)
+YOUTUBE_API_KEY=your_youtube_api_key_here
+
+# Google Maps API Configuration (Optional)
+GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
